@@ -21,7 +21,7 @@
 </div>
 
 ```javascript
-const rifky = {
+const hafan = {
     name: "Muhamad Rifky Hafan",
     location: "Indonesia 🇮🇩",
     education: "Universitas Duta Bangsa Surakarta",
@@ -52,7 +52,7 @@ const rifky = {
 
 <div align="center">
   
-  ## 🎮 Contribution Pacman Game
+  ## 🎮 Pacman Game
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muriha094/muriha094/output/pacman-contribution-graph-dark.svg">
