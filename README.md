@@ -37,7 +37,11 @@ const hafan = {
   ## 📊 GitHub Analytics
   
   <img src="https://github-readme-stats.vercel.app/api?username=muriha-code&theme=tokyonight&show_icons=true&hide_border=true" />
+<<<<<<< HEAD
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriha-code&layout=compact&langs_count=8&theme=tokyonight"/>
+=======
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriha094&layout=compact&langs_count=8&theme=tokyonight"/>
+>>>>>>> 947d52ac82291615b736823e1e71f2d128784865
   
 </div>
 
