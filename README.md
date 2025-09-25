@@ -27,7 +27,6 @@ const hafan = {
     education: "Universitas Duta Bangsa Surakarta",
     currentFocus: "Laravel & Web Development",
     interests: ["Backend Development", "Database Design", "API Development"],
-    funFact: "I turn coffee into code ☕ -> 💻",
     philosophy: "A choice that is difficult to live more easily, 
                  and easy choices for living a hard life. - Farhan"
 };
@@ -46,7 +45,7 @@ const hafan = {
   
   ## 🔥 Streak Stats
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muriha094&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muriha-code&theme=tokyonight" alt="GitHub Streak" />
   
 </div>
 
