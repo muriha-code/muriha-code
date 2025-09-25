@@ -36,7 +36,7 @@ const hafan = {
   
   ## 📊 GitHub Analytics
   
-  <img src="https://github-readme-stats.vercel.app/api?username=muriha094&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muriha-code&theme=tokyonight&show_icons=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriha094&layout=compact&langs_count=8&theme=tokyonight"/>
   
 </div>
