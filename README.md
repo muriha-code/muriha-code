@@ -36,8 +36,8 @@ const hafan = {
   
   ## 📊 GitHub Analytics
   
-  <img src="https://github-readme-stats.vercel.app/api?username=muriha094&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriha094&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muriha-code&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriha-code&layout=compact&langs_count=8&theme=tokyonight"/>
   
 </div>
 
@@ -54,9 +54,9 @@ const hafan = {
   ## 🎮 Pacman Game
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muriha094/muriha094/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muriha094/muriha094/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muriha094/muriha094/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muriha-code/muriha094/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muriha-code/muriha-code/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muriha-code/muriha-code/output/pacman-contribution-graph.svg">
   </picture>
   
 </div>
@@ -91,7 +91,7 @@ const hafan = {
   
   ## 📈 Activity Graph
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muriha094&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muriha-code&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area=true&hide_border=true" />
   
 </div>
 
@@ -101,7 +101,7 @@ const hafan = {
   
   ## 🏆 GitHub Trophies
   
-  <img src="https://github-profile-trophy.vercel.app/?username=muriha094&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muriha-code&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
   
 </div>
 
@@ -130,7 +130,7 @@ const hafan = {
   
   ### 👀 Profile Views Counter
   
-  <img src="https://komarev.com/ghpvc/?username=muriha094&label=Profile%20Views&color=628fdb&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=muriha-code&label=Profile%20Views&color=628fdb&style=flat-square" alt="Profile Views" />
   
 </div>
 
